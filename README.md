@@ -1,7 +1,7 @@
 # Avatar Virtual: Agradecimento à DIO pelo Curso Nexa
 
 ## 📒 Descrição
-Criação de um vídeo com Avatar Virtual, utilizando IA generativa para expressar meu agradecimento à DIO pela oportunidade de participar do curso Nexa – Fundamentos de IA Generativa com Bedrock.
+Criação de um vídeo com Avatar Virtual, utilizando IA generativa para o curso Nexa – Fundamentos de IA Generativa com Bedrock, oferecido pela DIO.
 
 ## 🤖 Tecnologias Utilizadas
 - IA generativa para criação de roteiro (texto)
